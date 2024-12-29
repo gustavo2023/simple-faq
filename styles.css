@@ -116,6 +116,7 @@ header {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  margin-top: 4rem;
   margin-bottom: 4rem;
   padding: 1rem;
   text-align: center;
